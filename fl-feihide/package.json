@@ -1,0 +1,15 @@
+{
+  "name": "fl-feihide",
+  "version": "1.1.2",
+  "main": "main.js",
+  "dependencies": {
+    "argv": "0.0.2",
+    "formidable": "1.0.17",
+    "jpush-sdk": "3.2.1",
+    "mongodb": "2.0.42",
+    "mysql": "2.9.0",
+    "nodegrass": "0.0.3",
+    "nodemailer": "1.4.0",
+    "underscore": "1.8.3"
+  }
+}
